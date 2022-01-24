@@ -1,4 +1,4 @@
-### Hey 👋, I'm Augustas!
+### Hey 👋, I'm Augustas! :surfer:
 
 [![Github](https://img.shields.io/github/followers/augustasv?label=Follow&style=social)](https://github.com/augustasv)
 
